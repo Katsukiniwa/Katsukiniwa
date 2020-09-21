@@ -1,7 +1,7 @@
 # Katsukiniwa
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=katsukiniwa5&count_private=true&show_icons=true" />
+<a href="https://github.com/katsukiniwa/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=katsukiniwa&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsukiniwa" />
